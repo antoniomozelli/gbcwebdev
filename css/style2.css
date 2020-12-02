@@ -1,0 +1,22 @@
+body{
+    text-align: justify;
+}
+section{text-align: left;}
+p {text-align: center;}
+
+.some{
+    box-sizing: border-box;
+    width: 300px;
+    height: 200px;
+    padding: 5px;
+    border: 10 px solid black;
+    margin: 15px;
+}
+
+.green {color: green;}
+.red {color:red;}
+section{color:blue;}
+
+h1{
+    font-family: 'Times New Roman',heveltica, monospace;
+}
